@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Manish
 ## On the way to become a full stack developer
+## Linkedin Profile www.linkedin.com/in/Mr-man7352
 <!--
 **Mr-man7352/Mr-man7352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ## MY WEBSITE(https://revolution-education.online/)
-
 ### ALL OF MY DEPLOYED PROJECTS
 
 https://python-todo-manish7352.herokuapp.com/
