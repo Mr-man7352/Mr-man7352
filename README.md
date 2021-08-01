@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## MY WEBSITE(https://revolution-education.online/)
+## MY WEBSITE(http://revolution-education.online/)
 ### ALL OF MY DEPLOYED PROJECTS
 
 https://python-todo-manish7352.herokuapp.com/
