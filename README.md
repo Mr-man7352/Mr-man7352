@@ -59,7 +59,7 @@ https://chat-web-app-7cce4.web.app/
 <table>
   <tr>
 <td><a href="https://github.com/mr-man7352/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-man7352&show_icons=true&locale=en" alt="mr-man7352" /> height="180rem" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-man7352&show_icons=true&locale=en" alt="mr-man7352"  height="180rem" />
   </a></td>
     
 <td> 
