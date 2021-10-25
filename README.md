@@ -17,7 +17,7 @@
 <a href="https://www.youtube.com/channel/UCzEKCug6iXv9EsOQT9oSeUA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczekcug6ixv9esoqt9oseua" height="30" width="40" /></a>
 </p>
 
-## MY WEBSITE(https://revolution-education.online/)
+## MY WEBSITE(http://revolution-education.online/)
 ### ALL OF MY DEPLOYED PROJECTS
 
 https://python-todo-manish7352.herokuapp.com/
