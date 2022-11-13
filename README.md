@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-man7352&label=Profile%20views&color=0e75b6&style=flat" alt="mr-man7352" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://manish.study](https://manish.study)
+<!--- - 👨‍💻 All of my projects are available at [https://manish.study](https://manish.study) -->
 
 - 📫 How to reach me **manish7352@gmail.com**
 
