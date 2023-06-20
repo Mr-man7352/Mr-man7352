@@ -24,9 +24,6 @@
 https://python-todo-manish7352.herokuapp.com/
 
 
-https://narayan-bhiya-manish-website.herokuapp.com/
-
-
 https://tictactoe-by-manish.surge.sh/
 
 
