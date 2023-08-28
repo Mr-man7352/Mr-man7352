@@ -13,9 +13,7 @@
 <a href="https://twitter.com/mr_man7352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_man7352" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mr-man7352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-man7352" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16003424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16003424" height="30" width="40" /></a>
-<a href="https://fb.com/man7352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr_man7352" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_man7352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr-man7352" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCzEKCug6iXv9EsOQT9oSeUA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczekcug6ixv9esoqt9oseua" height="30" width="40" /></a>
+
 </p>
 
 ## MY WEBSITE(http://revolution-education.online/)
