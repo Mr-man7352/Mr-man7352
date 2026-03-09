@@ -16,10 +16,9 @@
 
 </p>
 
-## MY WEBSITE(http://revolution-education.online/)
+
 ### ALL OF MY DEPLOYED PROJECTS
 
-https://python-todo-manish7352.herokuapp.com/
 
 
 https://tictactoe-by-manish.surge.sh/
